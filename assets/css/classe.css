@@ -19,3 +19,7 @@
 .section{ /*deixando todas sections no mesmo tamanho*/
     min-height: 100vh;
 }
+
+.menu-spacing{
+    height: 65px;
+}
