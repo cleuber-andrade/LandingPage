@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Open+Sans:ital,wght@0,400;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Open+Sans:ital,wght@0,400;1,400;1,700&display=swap');
+
+
+:root {  /*declaração de variaveis em css*/
+    --primary-color: #0a1128;
+    --white-color: #fff;
+    --light-gray-color: #eee;
+    --secondary-color: crimson;
+    --gap: 3rem;/*30 px*/
+}
