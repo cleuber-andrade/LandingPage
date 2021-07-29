@@ -100,12 +100,19 @@
 
 }
 
+.form-grid legend{
+    font-style: italic;
+    font-size: 1.6rem;
+    margin-bottom: 3rem;
+}
+
 .form-group{
     flex: 1 1 320px;
 }
 
 .form-group label{
     display: block;
+    margin-bottom: 1rem;
 }
 
 .form-group input,
@@ -115,6 +122,12 @@
     padding: 1.5rem 2rem;
     width: 100%;
     font-size: 3rem;
+    outline: none; /*para tirar o cursor piscando no input*/
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    box-shadow: 0 0 10px 2px var(--secondary-color);
 }
 
 .form-group button{
@@ -135,4 +148,21 @@
 
 .form-group ::placeholder{
     color: var(--light-gray-color);
+}
+
+.footer{
+    text-align: center;
+    font-size: 1.6rem;    
+}
+.footer a{
+    color: var(--primary-color);
+}
+
+.footer p{
+    margin: 0;
+    padding: 3rem;    
+}
+
+.heart{
+    color: var(--secondary-color);
 }
