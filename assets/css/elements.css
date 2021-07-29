@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 html{
@@ -75,6 +76,7 @@ table caption{
 }
 
 table td, table th{
+    white-space: nowrap; /*comando para deixar a tabela fluida (não recomendados para textos grandes*/
     padding: 1rem;
     border: 0.1rem solid var(--table-blue);
     text-align: left;
