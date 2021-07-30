@@ -187,6 +187,8 @@
     border: 0.1rem solid var(--primary-color);
 }
 
+
+
 @media(max-width: 800px){
     .intro-content, .grid {
         grid-template-columns: 1fr;
@@ -214,8 +216,8 @@
 
     .menu-content{
         height: 100vh;
-    }
-
+    }   
+    
     .close-menu-label::after{
         content: '≡';
         position: fixed;
