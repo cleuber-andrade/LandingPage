@@ -181,4 +181,18 @@
     .gallery-img img{
         width: 100%;
     }
+
+    .menu{
+        bottom: 0;
+    }
+
+    .menu-content, .menu-content ul{
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .menu-content{
+        height: 100vh;
+    }
+    
 }
