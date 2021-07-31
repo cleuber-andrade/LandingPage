@@ -1,6 +1,6 @@
 .intro-content{
     position: relative;
-    top: -7rem;
+    /*top: -7rem;*/
     display: grid;    
     grid-template-columns: 1fr 1.5fr ;    
     gap: var(--gap);
@@ -27,7 +27,7 @@
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: center;
-    min-height: 90vh;
+    min-height: 100vh;
     text-align: center;
 }
 
@@ -43,7 +43,7 @@
 }
 
 .main-description{
-    padding-bottom: 3rem;
+    padding-bottom: 5rem;
 }
 
 .grid{
@@ -246,5 +246,33 @@
 
     .menu-spacing{
         display: none;
+    }
+
+    .img-broken{
+        display: none;
+    }
+
+    h1{
+        font-size: 4rem;
+    }
+    
+    h2{
+        font-size: 3.6rem;
+    }
+    
+    h3{
+        font-size: 3.4rem;
+    }
+    
+    h4{
+        font-size: 3.2rem;
+    }
+    
+    h5{
+        font-size: 3rem;
+    }
+    
+    h6{
+        font-size: 2.8rem;
     }
 }

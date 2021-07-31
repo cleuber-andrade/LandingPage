@@ -11,7 +11,7 @@ html{
 
 body{
     font-family: 'Open Sans', sans-serif;
-    font-size: 1.6rem; /*é o mesmo de 16 px*/
+    font-size: 2rem; /*é o mesmo de 16 px*/
     color: var(--primary-color);
     line-height: 1.5;
 }    
@@ -59,7 +59,7 @@ p{
 
 .responsive-table{   
     overflow: hidden;
-    overflow-x: scroll;
+    overflow-x: auto;
 }
 
 table{
