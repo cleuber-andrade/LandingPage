@@ -14,6 +14,7 @@ Praticar conhecimentos sobre HTML5, CSS3.
 -Aprimorar os conhecimentos em HTML;
 -Aprimorar os conhecimentos em HTML;
 -Utilização de variaveis no CSS;
+-Site Responsivo;
 
 ```
 ## :wrench: Ferramentas Utilizadas
