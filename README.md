@@ -25,7 +25,7 @@ Praticar conhecimentos sobre HTML5, CSS3.
 </div> <br> 
 
 
-## :pager: Tela principal da Site Moon January
+## :pager: Tela principal da Site January
 
  <img src="https://github.com/cleuber-andrade/Landing_January/blob/main/assets/img/landpage_january.jpg" alt="Tela Principal">
 
